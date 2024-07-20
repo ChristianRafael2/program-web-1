@@ -1,0 +1,35 @@
+*{
+    margin:0px;            
+    padding:0px;
+    box-sizing: border-box;
+}
+
+body {
+      font-family: "Montserrat", sans-serif;
+  
+}
+div{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin : 0px auto;
+    margin-bottom: 20px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; /*horizontal*/
+    line-height: 100px; /*vertical*/
+    color: white;
+}
+.circle{
+    border-radius: 50px;
+}
